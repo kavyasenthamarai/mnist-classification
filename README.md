@@ -139,6 +139,7 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28, 28), cmap='gray')
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![image](https://github.com/kavyasenthamarai/mnist-classification/assets/118668727/9eb7625e-8e7e-46a8-be8c-56c7bb789b0d)
+![image](https://github.com/kavyasenthamarai/mnist-classification/assets/118668727/b6255e59-4730-4963-bcda-995825cb442a)
 
 
 
@@ -152,6 +153,7 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28, 28), cmap='gray')
 ![image](https://github.com/kavyasenthamarai/mnist-classification/assets/118668727/7de2c8fa-51f3-4e9a-9bb3-9ceef50d5f34)
 
 ### New Sample Data Prediction
+![image](https://github.com/kavyasenthamarai/mnist-classification/assets/118668727/13d4c3a8-5c5e-4a13-936a-ccc6dbbb2319)
 
 ![image](https://github.com/kavyasenthamarai/mnist-classification/assets/118668727/e3805a2e-2b12-4a0b-8078-a34e3084c101)
 
